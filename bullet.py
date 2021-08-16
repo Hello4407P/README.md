@@ -74,8 +74,6 @@ time.sleep(3)
 
 print "[====================>] 100%"
 
-print "[By Hacker TH]"
-
 time.sleep(3)
 
 sent = 0
